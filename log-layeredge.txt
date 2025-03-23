@@ -818,3 +818,6 @@
 [11:08:48 | 23-03-2025] Last Claim Point: 21/03/2025 20:00:52
 [11:08:51 | 23-03-2025] ✅ Points claimed for 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4
 [11:08:52 | 23-03-2025] 🚨 Failed to start node for 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4: [object Object]
+[23:00:32 | 23-03-2025] Wallet Address: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4
+[23:00:32 | 23-03-2025] Node Points: 766050
+[23:00:32 | 23-03-2025] Last Claim Point: 23/03/2025 04:08:51
