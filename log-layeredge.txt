@@ -850,3 +850,18 @@
 [15:10:51 | 25-03-2025] Wallet Address: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4
 [15:10:51 | 25-03-2025] Node Points: 1027126
 [15:10:51 | 25-03-2025] Last Claim Point: 24/03/2025 08:11:35
+[19:13:53 | 25-03-2025] Wallet Address: 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4
+[19:13:53 | 25-03-2025] Node Points: 1027126
+[19:13:53 | 25-03-2025] Last Claim Point: 24/03/2025 08:11:35
+[19:13:54 | 25-03-2025] ✅ Points claimed for 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4
+[19:13:55 | 25-03-2025] 🚨 Failed to start node for 0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x909061f70940FeD4ca3C897818cF32d41Fd7f2A4/start</pre>
+</body>
+</html>
+
